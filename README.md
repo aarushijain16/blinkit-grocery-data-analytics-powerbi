@@ -123,7 +123,7 @@ The analytical approach for this project was multi-faceted, focusing on turning 
 
 - **Data Source**: BlinkIT Grocery Data.xlsx - BlinkIT Grocery Data.csv from Kaggle
 
-## Visualisations:
+## Visualizations:
 
 - Overall Sales Metrics (Total Sales, Avg Sales, No of Items, Avg Rating)
 
