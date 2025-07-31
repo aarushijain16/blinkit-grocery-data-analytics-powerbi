@@ -1,6 +1,8 @@
 # blinkit-grocery-data-analytics-powerbi
 This project presents an in-depth analysis of Blinkit's e-commerce transactional data through a comprehensive Power BI dashboard. It dissects revenue streams, evaluates product performance, and uncovers customer buying patterns to optimize sales, enhance product strategies, and improve overall business performance.
 
+# Blinkit Grocery Data Analytics: Driving Sales & Customer Insights
+
 ## Executive Summary:
 
 This project conducts a comprehensive analysis of e-commerce transactional data from Blinkit, presented through an interactive Power BI dashboard. The analysis dissects revenue streams, evaluates product and outlet performance, and uncovers customer behavioral insights. The goal is to provide data-driven recommendations that optimize resource allocation, enhance product strategies, and inform targeted business decisions.
